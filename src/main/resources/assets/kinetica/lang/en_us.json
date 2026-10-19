@@ -1,0 +1,10 @@
+{
+  "itemGroup.kinetica.kinetica": "Kinetica",
+
+  "kinetica.configuration.title": "Kinetica Configs",
+  "kinetica.configuration.section.kinetica.common.toml": "Kinetica Configs",
+  "kinetica.configuration.section.kinetica.common.toml.title": "Kinetica Configs",
+  "kinetica.configuration.debugLogging": "Debug Logging",
+  "kinetica.configuration.bannerOnStartup": "Startup Banner",
+  "kinetica.configuration.disabledFeatures": "Disabled Features"
+}
